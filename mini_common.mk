@@ -42,10 +42,10 @@ PRODUCT_PACKAGES += \
     WAPPushManager \
     audio \
     audio.primary.default \
+    cameraserver \
     com.android.future.usb.accessory \
     hostapd \
     wificond \
-    wifilogd \
     librs_jni \
     libvideoeditor_core \
     libvideoeditor_jni \
